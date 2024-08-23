@@ -10,7 +10,7 @@
 .title-left {
   font-size: 2rem;
   position: relative;
-  padding-block: 10px;
+  padding-block: -5px;
 }
 .title-left:before {
   content: "";
@@ -43,8 +43,8 @@
 # About
 --------------------------------------------------------------*/
 .about-mf .box-shadow-full {
-  padding-top: 4rem;
-  padding-bottom: 4rem;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 .about-mf .about-img {
   margin-bottom: 2rem;
