@@ -30,11 +30,11 @@ const resumeData = {
 
     experiencia: [
       {
-        cargo: "Ayudante de Ingeniero",
+        cargo: "Auxiliar técnico",
         institucion: "Colegio del Golfo",
         ubicacion: "Ciudad del Carmen, Campeche",
         fecha: "15 Mayo, 2021 - 22 Febrero, 2022",
-        descripcion: "Como ayudante de Ingeniero, me dediqué a mantener y optimizar el rendimiento de computadoras y sistemas informáticos. Desde diagnósticos y reparaciones de hardware hasta instalaciones y actualizaciones de software. Además, mi experiencia abarcaba la instalación de cámaras de seguridad y el tendido de cableado UTP para redes de datos.",
+        descripcion: "Auxiliar técnico, me dediqué a mantener y optimizar el rendimiento de computadoras y sistemas informáticos. Desde diagnósticos y reparaciones de hardware hasta instalaciones y actualizaciones de software. Además, mi experiencia abarcaba la instalación de cámaras de seguridad y el tendido de cableado UTP para redes de datos.",
       },
       {
         cargo: "Docente de especialidades",
@@ -232,3 +232,4 @@ const resumeData = {
         },
     ],
   };
+
